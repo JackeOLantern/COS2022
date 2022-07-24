@@ -12,3 +12,6 @@ Déjà venu à mi-parcours du COS CTF au 06/07, j'ai surtout focalisé mes réso
 
 La plupart des **#challenges** de ce type et **l'#escape #game** se dénichent via l'apprentissage préalable des outils et un bon sens de l'observation, 
 de l'analyse en l'exploitation de logiciels. La **#virtualisation** fait une **#partition** alternative entre **#systèmes** du serveur mis à disposition.
+
+La finalisation du challenge de datacenter avec le déchiffrement complet du bout de phrase en morse m'aurait vraisemblablement maintenue à ma position.
+Le classement intermédiaire à mi-parcours était de 50ième mais il est passé ici à 88ième sans une action durant mon stage en MFI/E3 de situation au CAP!
